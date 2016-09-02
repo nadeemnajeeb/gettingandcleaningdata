@@ -24,4 +24,7 @@ The R Script must
 ### Data Sharing
 More information on how to share data for statistics is available through [this repository](https://github.com/nadeemnajeeb/datasharing)
 
+### Instructions
+Read the CodeBook and execute the instructions sequentially
+
 
